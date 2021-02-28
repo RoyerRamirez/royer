@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: RoyerRamirez  # Be used at blog posts' author.
   first_name: Royer  # Be used at index page about me section.
   last_name: Ramirez  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/royer-casual.jpg  # upload your avatar at directory and edit it.
   github_username: royerramirez  # Leave blank if you don't have now
   linkedin_id: royerramirezruiz # Leave blank if you don't have now
   facebook_username: # Leave blank if you don't have now
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: I'm a DevOps Engineer for Rakuten working for the Rakuten Merchant Central team.  # Describe yourself.
+  desc: DevOps Engineer with a Bachelor of Science in Applied Mathematics, and a minor in Physics from the University of Central Arkansas. Skilled in R, Python, Swift, Docker, Kubernetes, Terraform, and Natural Language Processing (NLP). .  # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
