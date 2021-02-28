@@ -5,7 +5,7 @@
   i18n: apple
   url: https://apps.apple.com/us/app/enform/id1460769971
   img: /static/assets/img/landing/enform.jpg
-  desc: enForm an iOS application, was designed to help engineers process equipment data faster and efficiently, which helps reduce the amount of time spent in the data collection phase. enForm has many features that range from multithreading, saving data offline, continuously syncing equipment data, and passing workloads to worker nodes that are provisioned on kubernetes. GKE ensures that the services are always available, and additional containers can be deployed to process the data being requested. By taking advantage of autoscaling, costs are kept at a minimum whenever these services are not in use. Recently enForm and the Entegrity team was featured in Energy News turning solar savings into increased teacher pay in Arkansas.
+  desc: enForm an iOS application, designed to help engineers process equipment data faster and efficiently. enForm has many features that range from multithreading, saving data offline, continuously syncing equipment data, and passing workloads to worker nodes provisioned on Google Kubernetes Engine (GKE). GKE ensures that the services are always available, and additional containers can be deployed to process the data being requested. By taking advantage of autoscaling, costs are kept at a minimum whenever these services are not in use. Recently enForm and the Entegrity team was featured in Energy News turning solar savings into increased teacher pay in Arkansas.
 
 - name: Ramona's Radiant Rooms
   i18n: apple
