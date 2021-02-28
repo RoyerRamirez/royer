@@ -1,22 +1,14 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: enForm
+  i18n: apple
+  url: https://apps.apple.com/us/app/enform/id1460769971
+  img: /static/assets/img/landing/enform.jpg
+  desc: enForm an iOS application, was designed to help engineers process equipment data faster and efficiently, which helps reduce the amount of time spent in the data collection phase. enForm has many features that range from multithreading, saving data offline, continuously syncing equipment data, and passing workloads to worker nodes that are provisioned on kubernetes. GKE ensures that the services are always available, and additional containers can be deployed to process the data being requested. By taking advantage of autoscaling, costs are kept at a minimum whenever these services are not in use. Recently enForm and the Entegrity team was featured in Energy News turning solar savings into increased teacher pay in Arkansas.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
-
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Ramona's Radiant Rooms
+  i18n: apple
+  url: https://apps.apple.com/us/app/ramonas-radiant-rooms/id1440358728
+  img: /static/assets/img/landing/radiant-rooms.png
+  desc: Ramona's Radiant Rooms allow users to make payments, schedule new appointments, and retrieve their payment history.  All payments are made using tokens, and all the transactions are encrypted. The user can save as many debit cards, and credit cards as they would like. The cards are not stored locally, instead they are stored in Stripe's backend, and all the information needed is fetched using tokens. This provides extra layers of security keeping all the card information off the devices.  This application allows Ramona's Radiant Rooms to reach more clients and process payments securly.
