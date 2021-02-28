@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Kubernetes, Topic Modeling, Python, R, Swift, Running, Sleeping
-percentage: 90, 86, 84, 92, 83, 40, 50
+aspects: Kubernetes, Running, Python, R, Swift, NLP, Sleeping
+percentage: 100, 40, 84, 92, 83, 86, 50
