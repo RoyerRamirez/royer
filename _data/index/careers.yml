@@ -4,7 +4,7 @@
     detail: Rakuten
     i18n: company_a
   desc:
-    detail: Rakuten detail goes here
+    detail: Currently, I'm a DevOps Engineer bridging the gap between the DevOps and Data Science teams. I currently manage the development, stage, and production environments for the Rakuten Merchant Central team.  My core responsibilities range from system configurations, application lifecycles, infastructure deployments, and the continual buildout of internal tools that conduct security audits.
     i18n: company_a_desc
   date:
     detail: Jul. 2019
@@ -19,7 +19,7 @@
     detail: Metia
     i18n: company_b
   desc:
-    detail: Metia detail goes here
+    detail: Prevously at Metia, I worked in a small Data Science team building unsupervised Natural Language Processing (NLP) Topic Models written in R and Python for Microsoft Executives. Durin my tenure, I was able to optimize the models to run in several hours as opposed to several weeks.  I helped productionalize a web crawler that assisted with data collection for our models, and maintained numerous databases.    
     i18n: company_b_desc
   date:
     detail: Oct. 2018
@@ -33,7 +33,7 @@
     detail: Euronet Software Solutions
     i18n: company_c
   desc:
-    detail: Euronet Worldwide description goes here
+    detail: While working at Euronet Software Solutions, I helped maintain several production environments for banks located in Austrial, Sri Lanka, and Latin America. I helped with failing over to DR environments when necessary, and assisted with production failures. My core responsiblity was to ensure banking systems remained active and continued processing transactions. 
     i18n: company_c_desc
   date:
     detail: Dec. 2017
@@ -47,7 +47,7 @@
     detail: Entegrity
     i18n: company_d
   desc:
-    detail: Entegrity description goes here
+    detail: When I interned at Entegrity, I lead an energy rate analysis consisting of interactive energy maps.  These maps assisted the business with identifying potential new locations for future expansions. I also setup the building blocks for their auditing application named enForm, that was later developed by me.
     i18n: company_d_desc
   date:
     detail: Dec. 2016
