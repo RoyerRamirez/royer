@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Kubernetes, C++, Python, R, Swift, NLP, CI/CD
-percentage: 100, 30, 74, 97, 83, 86, 70
+aspects: Kubernetes, iOS Development, C++, Python, R, Swift, Terraform, NLP, Neural Networks, CI/CD
+percentage: 100, 88, 30, 74, 97, 83, 100, 86, 60, 70
