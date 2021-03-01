@@ -4,10 +4,10 @@
 title: Royer Ramirez Ruiz
 description: Royer's blog,use Jekyll and github pages.
 keywords: Royer,Ramirez,Ruiz,devops,machine-learning,data,kubernetes
-baseurl:  /royer # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://royerramirez.github.io/royer # url should be 'http://<github_username>.github.io/homepage' as before
+baseurl: / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: https://royerramirez.github.io/ # url should be 'http://<github_username>.github.io/homepage' as before
 #url: http://127.0.0.1:4000
-img_path: /royer/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
@@ -21,7 +21,7 @@ author:  # change following line to your infomation.
   twitter_username: # Leave blank if you don't have now
   email: royer.ramirez@gmail.com  # Leave blank if you don't have now
   #enable_feed: true # Comment out if you don't want to have a feed section
-  cv: https://royerramirez.github.io/royer/resume.pdf  # Optional: PDF
+  cv: https://royerramirez.github.io/resume.pdf  # Optional: PDF
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: fa-linux
