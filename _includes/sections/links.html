@@ -29,6 +29,9 @@
                 <li><a href="mailto:{{ link.email }}"><i class="fa fa-envelope-o"></i></a>
                 </li>
                 {% endif %}
+                {% if link.cv %}
+                    <li><a href="{{ link.cv }}" target="blank"><i class="fa fa-file-pdf-o"></i></a></li>
+                {% endif %}
             </ul>
         </div>
         </div>
