@@ -2,8 +2,8 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: banner/woods.jpg
-  title: Olympic National Park
+- src: banner/skiing.jpg
+  title: Steven's Pass Skiing Area
 
 # TODO: ------------------------
 # Resize the following images:
@@ -11,8 +11,8 @@
 #  title: Seattle Skiline
 # - src: banner/snowshoeing.jpg
 #   title: Showshoeing - Washington
-# - src: banner/skiing.jpg
-#   title: Steven's Pass Skiing Area
+# - src: banner/woods.jpg
+#   title: Olympic National Park
 # - src: banner/grand-junction.jpg
 #   title: Grand Junction Colorado
 
