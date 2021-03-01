@@ -21,7 +21,7 @@ author:  # change following line to your infomation.
   twitter_username: # Leave blank if you don't have now
   email: royer.ramirez@gmail.com  # Leave blank if you don't have now
   #enable_feed: true # Comment out if you don't want to have a feed section
-  cv: https://royerramirez.github.io/resume.pdf  # Optional: PDF
+  cv: https://royerramirez.com/resume.pdf  # Optional: PDF
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: fa-linux
