@@ -33,7 +33,7 @@
     detail: Euronet Software Solutions
     i18n: company_c
   desc:
-    detail: While working at Euronet Software Solutions, I helped maintain several production environments for banks located in Austrial, Sri Lanka, and Latin America. I helped with failing over to DR environments when necessary, and assisted with production failures. My core responsiblity was to ensure banking systems remained active and continued processing transactions. 
+    detail: While working at Euronet Software Solutions, I helped maintain several production environments for banks located in Australia, Sri Lanka, and Latin America. I helped with failing over to DR environments when necessary, and assisted with production failures. My core responsiblity was to ensure banking systems remained active and continued processing transactions. 
     i18n: company_c_desc
   date:
     detail: Dec. 2017
