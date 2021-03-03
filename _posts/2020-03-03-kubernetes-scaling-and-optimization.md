@@ -4,8 +4,8 @@ title:  "Kubernetes: Scaling & Optimization - T-Shirt Method"
 date:   2021-03-03
 desc: "Recommendations on scaling and cluster sizing to increase utilization and decrease costs."
 keywords: "kubernetes,gke,docker,scaling,cost,cloud,compute,ml,terraform"
-categories: [kubernetes]
-tags: [kubernetes]
+categories: [Kubernetes]
+tags: [kubernetes,optimization,scaling]
 icon: fa-cloud
 ---
 
