@@ -17,6 +17,8 @@ For example, the following diagram has four nodes. If we look closely at Node A,
 
 ![scaling-optimization-diagram](https://royerramirez.com/static/assets/img/blog/kubernetes/scaling-and-optimization/2020-03-03-tshirt-method.png  =250x)
 
+<img src=https://royerramirez.com/static/assets/img/blog/kubernetes/scaling-and-optimization/2020-03-03-tshirt-method.png alt="drawing" width="250"/>
+
 If we look at Node B, Node C, and Node D, we notice that in fact most of the resources in that node are being used. This gives us the flexibility to build actual node-pools targeting those specific workloads ensuring our environment is always scaling up and down efficiently. 
 
 When managing the infrastructure for my team, I like to take this method into consideration. However, I don't let it become a blocker. There are use cases, where knowing the exact resources required to run an application are unknown. In general, my recommendation is to build multiple node-pools that have give your cluster the opportunity to scale up and down smarter. Take advantage of taints, labels, and node-affinities. They will help with segregating workloads into different node-pools.
