@@ -19,7 +19,7 @@
     detail: Metia
     i18n: company_b
   desc:
-    detail: Prevously at Metia, I worked in a small Data Science team building unsupervised Natural Language Processing (NLP) Topic Models written in R and Python for Microsoft executives. Durin my tenure, I was able to optimize the models to run in several hours as opposed to several weeks.  I helped productionalize a web crawler that assisted with data collection for our models, and maintained numerous databases.    
+    detail: Previously at Metia, I worked in a small Data Science team building unsupervised Natural Language Processing (NLP) Topic Models written in R and Python for Microsoft executives. During my tenure, I was able to optimize the models to run in several hours as opposed to several weeks.  I helped productionalize a web crawler that assisted with data collection for our models, and maintained numerous databases.    
     i18n: company_b_desc
   date:
     detail: Oct. 2018
@@ -33,7 +33,7 @@
     detail: Euronet Software Solutions
     i18n: company_c
   desc:
-    detail: While working at Euronet Software Solutions, I helped maintain several production environments for banks located in Australia, Sri Lanka, and Latin America. I helped with failing over to DR environments when necessary, and assisted with production failures. My core responsiblity was to ensure banking systems remained active and continued processing transactions. 
+    detail: While working at Euronet Software Solutions, I helped maintain several production environments for banks located in Australia, Sri Lanka, and Latin America. I helped with failing over to DR environments when necessary and assisted with production failures. My core responsibility was to ensure banking systems remained active and continued processing transactions. 
     i18n: company_c_desc
   date:
     detail: Dec. 2017
