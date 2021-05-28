@@ -25,19 +25,8 @@
                 data: [{{ site.data.index.skills.percentage }}]
                 }]
         };
-        var myRadarChart = new Chart(ctx, {
-            type: 'radar',
-            data: data,
-            options: {
-                scale: {
-                    responsive: true,
-                    ticks: {min: 0, max: 100},
-                    lineArc: false,
-                    pointLabels: {fontSize: 14},
-                },
-                legend: {display: false},
-            }
-        });
+        
+        <!-- var myRadarChart = new Chart(ctx, {type: 'radar',data: data,options: {scale: {responsive: true,ticks: {min: 0, max: 100},lineArc: false,pointLabels: {fontSize: 14},},legend: {display: false},}}); -->
 
         var temp_skill_data = {
             labels: [ 
@@ -55,20 +44,20 @@
                     ],
             datasets: [{
                 label: 'Skills',
-                data: [10, 8, 6, 9, 10, 9, 10, 8, 6, 9, 7],
+                data: [10, 8, 3, 8, 10, 9, 10, 6, 6, 9, 7],
                 backgroundColor: [ 
-                                'rgb(255, 99, 132)',
-                                'rgb(75, 192, 192)',
-                                'rgb(255, 205, 86)',
-                                'rgb(201, 203, 207)',
                                 'rgb(54, 162, 235)',
+                                'rgb(64, 172, 245)',
+                                'rgb(74, 182, 255)',
+                                'rgb(84, 192, 265)',
+                                'rgb(94, 202, 275)',
 
-                                'rgb(255, 99, 132)',
-                                'rgb(75, 192, 192)',
-                                'rgb(255, 205, 86)',
                                 'rgb(201, 203, 207)',
-                                'rgb(54, 162, 235)',
-                                'rgb(255, 99, 132)',
+                                'rgb(211, 213, 217)',
+                                'rgb(221, 223, 227)',
+                                'rgb(231, 232, 237)',
+                                'rgb(241, 242, 247)',
+                                'rgb(251, 252, 257)',
                                 ]
             }]
         };
