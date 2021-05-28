@@ -1,7 +1,5 @@
 # skills section data
 
-label: Ability
-id : cs
 skill_label: "Kubernetes","iOS Development","C++","Python","R","Swift","Terraform","NLP","Neural Networks","CI/CD","Istio Service Mesh"
 points: 100, 88, 60, 92, 100, 94, 100, 86, 60, 94
 colors: 'rgb(54, 162, 235)','rgb(201, 203, 207)','rgb(64, 172, 245)','rgb(211, 213, 217)','rgb(74, 182, 255)','rgb(221, 223, 227)','rgb(84, 192, 265)','rgb(231, 232, 237)','rgb(94, 202, 275)','rgb(241, 242, 247)','rgb(104, 212, 285)',
