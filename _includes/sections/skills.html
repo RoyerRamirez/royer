@@ -13,8 +13,7 @@
         <script>
         var ctx = document.getElementById("{{ site.data.index.skills.id }}");
 
-
-        var temp_skill_data = {
+        var skill_data = {
             labels: [ 
                     'Kubernetes',
                     'iOS Development',
@@ -49,7 +48,7 @@
 
         var polarAreaChart = new Chart(ctx, {
             type: 'polarArea',
-            data: temp_skill_data,
+            data: skill_data,
             options: {}
         });
 
