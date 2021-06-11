@@ -13,6 +13,14 @@
         <script>
         var ctx = document.getElementById("{{ site.data.index.skills.id }}");
 
+        var data = {
+            labels: "{{ site.data.index.skills.skill_label }}".split(","),
+            datasets: [{
+                label: "Skills",
+                data: [{{ site.data.index.skills.points }}]
+                backgroundColor: "{{ site.data.index.skills.colors }}".split(",")
+                }]
+        };
 
         var temp_skill_data = {
             labels: [ 
