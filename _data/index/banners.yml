@@ -2,8 +2,13 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: banner/skiing.jpg
-  title: Steven's Pass Skiing Area
+- src: banner/rainbow.jpg
+  title: Pride
+- src: banner/rainbow-shapes.jpg
+  title: Pride
+
+# - src: banner/skiing.jpg
+#   title: Steven's Pass Skiing Area
 
 # TODO: ------------------------
 # Resize the following images:
@@ -15,8 +20,3 @@
 #   title: Olympic National Park
 # - src: banner/grand-junction.jpg
 #   title: Grand Junction Colorado
-
-
-# Legacy ----------------------
-#- src: landing/header_two.jpg
-#  title: second banner image 
