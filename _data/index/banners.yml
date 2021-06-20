@@ -4,7 +4,6 @@
 # Images are expected to be located in `static/assets/img/`.
 - src: banner/rainbow.jpg
   title: Pride
-
 - src: banner/skiing.jpg
   title: Steven's Pass Skiing Area
 
