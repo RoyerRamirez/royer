@@ -6,7 +6,7 @@ desc: "Marymere Falls - Over the river and through the woods we go to the Maryme
 keywords: "marymere,falls,hiking,river,water,friends"
 categories: [Life]
 tags: [marymere,falls,hike,hiking,water,river,washington,olympic,national,forest]
-icon: fa-hiking
+icon: fa-tree
 ---
 
 The best part about Washington state is having access to so many trails. Anytime, I have guests over, I always try to take them to the great outdoors.  On this hike, we were on a mission to see a waterfall.  We decided to go to Marymere Falls. It’s part of the Olympic National Forest surrounded by saltwater on all three sides. 
