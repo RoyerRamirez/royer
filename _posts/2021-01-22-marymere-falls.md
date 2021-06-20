@@ -11,7 +11,7 @@ icon: fa-hiking
 
 The best part about Washington state is having access to so many trails. Anytime, I have guests over, I always try to take them to the great outdoors.  On this hike, we were on a mission to see a waterfall.  We decided to go to Marymere Falls. It’s part of the Olympic National Forest surrounded by saltwater on all three sides. 
 
-As we embarked on our hike, we had go over a river, climb over fallen trees before arriving to Marymere Falls.  We also did a few other trails that branched out of the trail head. I recommend taking some time to explore the area. Just bring good hiking shoes, and prepare to get a little bit muddy.  
+As we embarked on our hike, we had to go over a river, and climb over fallen trees before arriving to Marymere Falls.  We also did a few other trails that branched out of the trailhead. I recommend taking some time to explore the area. Just bring good hiking shoes, and prepare to get a little bit muddy.  
 
 
 <p align="center">

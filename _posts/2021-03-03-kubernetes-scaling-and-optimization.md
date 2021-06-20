@@ -15,7 +15,9 @@ Companies like Airbnb follow a t-shirt sizing technique where they size all thei
 
 For example, the following diagram has four nodes. If we look closely at Node A, we notice that it does not follow the t-shirt method. So, whenever a new workload is added, if it can't fit into an existing node, Kubernetes will scale up the node-pool adding another node so this workload can run.  By doing so, this actually decreases our utilization, because the new node that was added only has 1 workload running and the remaining resources in that node are not being used.
 
-<center><img src="https://royerramirez.com/static/assets/img/blog/kubernetes/scaling-and-optimization/2020-03-03-tshirt-method.png" alt="scaling-and-optimization-diagram" width="750"></center>
+<p align="center">
+  <img width="460" src="https://royerramirez.com/static/assets/img/blog/kubernetes/scaling-and-optimization/2020-03-03-tshirt-method.png">
+</p>
 
 If we look at Node B, Node C, and Node D, we notice that in fact most of the resources in that node are being used. This gives us the flexibility to build actual node-pools targeting those specific workloads ensuring our environment is always scaling up and down efficiently. 
 
