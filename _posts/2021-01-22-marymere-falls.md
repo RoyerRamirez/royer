@@ -15,9 +15,9 @@ As we embarked on our hike, we had go over a river, climb over fallen trees befo
 
 
 <p align="center">
-  <img width="460" height="300" src="https://drive.google.com/uc?export=view&id=1G-4aCYnMzKhH69ZblshYXyCJThH1pcUT">
+  <img width="460" src="https://drive.google.com/uc?export=view&id=1G-4aCYnMzKhH69ZblshYXyCJThH1pcUT">
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="https://drive.google.com/uc?export=view&id=1G8vLM8JPEB8vbsCfZ9dcEYdsRFeq-RTA">
+  <img width="460" src="https://drive.google.com/uc?export=view&id=1G8vLM8JPEB8vbsCfZ9dcEYdsRFeq-RTA">
 </p>
