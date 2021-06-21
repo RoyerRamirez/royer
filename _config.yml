@@ -44,7 +44,7 @@ disqus:  # vist https://disqus.com/ to setup configuration; if not, comment sect
 # analytics
 ## google analytics
 ga:  # visit https://www.google.com/analytics/ to setup configuration; if not, comment following line.
-  id: G-Q4N8LTSNP3
+  id: G-WX0HW9RW5R
 
 ## google optimize
 go:
