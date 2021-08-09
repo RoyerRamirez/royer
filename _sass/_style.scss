@@ -1909,6 +1909,16 @@ ul.clear-list:first-child {
   line-height: 22px;
 }
 
+.progress{
+  border-radius:0;
+  overflow:visible;
+}
+.progress-bar{
+   background:rgb(32, 127, 201); 
+  -webkit-transition: width 1.5s ease-in-out;
+  transition: width 1.5s ease-in-out;
+}
+
 .article h1, .blog h2 {
   font-weight: 700;
 }
