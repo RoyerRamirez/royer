@@ -44,11 +44,11 @@ disqus:  # vist https://disqus.com/ to setup configuration; if not, comment sect
 # analytics
 ## google analytics
 ga:  # visit https://www.google.com/analytics/ to setup configuration; if not, comment following line.
-  id: G-WX0HW9RW5R
+  #id: G-WX0HW9RW5R
 
 ## google optimize
 go:
-  id: OPT-M99LG94
+  #id: OPT-M99LG94
 
 ## growingIO
 gio:  # visit https://www.growingio.com/ to setup configuration; if not, comment following line.
