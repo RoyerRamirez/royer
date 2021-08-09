@@ -4,7 +4,7 @@
     detail: Rakuten
     i18n: company_a
   desc:
-    detail: Currently, I'm a DevOps Engineer bridging the gap between the DevOps and Data Science teams. I currently manage the development, stage, and production environments for the Rakuten Merchant Central team.  My core responsibilities range from system configurations, application lifecycles, infrastructure deployments, and the continual buildout of internal tools that conduct security audits.
+    detail: I'm currently a DevOps Engineer bridging the gap between the DevOps and Data Science teams. I currently manage the development, stage, and production environments for the Rakuten Merchant Central team.  My core responsibilities range from system configurations, application lifecycles, infrastructure deployments, and the continual buildout of internal tools that conduct security audits.
     i18n: company_a_desc
   date:
     detail: Jul. 2019 - Present
