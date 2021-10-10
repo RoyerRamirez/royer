@@ -1,20 +1,32 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Rivian
+    i18n: rivian
+  desc:
+    detail: ""
+    i18n: rivian_desc
+  date:
+    detail: Oct. 2021 - Present
+    i18n: rivian_date
+  job:
+    detail: DevOps Engineer
+    i18n: rivian_job
+  icon: fa-plus-square
+  present: true
+- name:
     detail: Rakuten
     i18n: company_a
   desc:
     detail: I'm currently a DevOps Engineer bridging the gap between the DevOps and Data Science teams. I currently manage the development, stage, and production environments for the Rakuten Merchant Central team.  My core responsibilities range from system configurations, application lifecycles, infrastructure deployments, and the continual buildout of internal tools that conduct security audits.
     i18n: company_a_desc
   date:
-    detail: Jul. 2019 - Present
+    detail: Jul. 2019 - Oct. 2021
     i18n: company_a_date
   job:
     detail: DevOps Engineer
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
-
 - name:
     detail: Metia
     i18n: company_b
@@ -28,7 +40,6 @@
     detail: Advanced Analytics Specialist
     i18n: company_b_job
   icon: fa-plus-square
-
 - name:
     detail: Euronet Software Solutions
     i18n: company_c
@@ -42,7 +53,6 @@
     detail: Technical Analyst
     i18n: company_c_job
   icon: fa-plus-square
-
 - name:
     detail: Entegrity
     i18n: company_d
