@@ -4,7 +4,7 @@
     detail: Rivian
     i18n: rivian
   desc:
-    detail: ""
+    detail: "I currently work at Rivian, as a Sr. DevOps Engineer for the Factory Data team.  I’m responsible for integrating and supporting factory systems across various environments and ensuring those systems can scale with ease."
     i18n: rivian_desc
   date:
     detail: Oct. 2021 - Present
@@ -19,11 +19,7 @@
     detail: Rakuten
     i18n: company_a
   desc:
-    detail: "Previously at Rakuten, I worked as a DevOps Engineer bridging the gap between the DevOps and Data Science teams. I managed the dev, stage, and prod environments for the Rakuten Catalog Platform team.  My core responsibilities ranged from system configurations, application lifecycles, infrastructure deployments, and the continual buildout of internal tools that conducted security audits. 
-    
-    At the time, I managed 60 Google Kubernetes Engine clusters ranging in size. I was directly responsible for clusters that trained models, and responsible for clusters that housed Elasticsearch database that processed over 1 million jobs a day. 
-    
-    Besides regular DevOps work, I lead several efforts during my time at Rakuten. I performed a large network migration that impacted all the existing workloads in order to move to a service mesh architecture using Istio. I also worked with several Google Cloud engineers to help test and debug Alpha programs. One of the most notable Alpha program was the A100. I also helped transition my team to into the IaC (Infrastructure as Code) methodology with large adoption throughout the team. Finally, I was able to productionalize Kubeflow by using private clusters, GCS (Google Cloud Storage) instead of Minio, and CloudSQL instead of the MySQL instance that was deployed within the cluster. This made future upgrades possible and easy to perform without the possibility of losing production data. Since Kubeflow has many components, making those changes wasn’t easy and not very well supported by the Kubeflow community."
+    detail: "Previously at Rakuten, I worked as a DevOps Engineer bridging the gap between the DevOps and Data Science teams. I managed the dev, stage, and prod environments for the Rakuten Catalog Platform team.  My core responsibilities ranged from system configurations, application lifecycles, infrastructure deployments, and the continual buildout of internal tools that conducted security audits. <br><br>At the time, I managed 60 Google Kubernetes Engine clusters ranging in size. I was directly responsible for clusters that trained models, and responsible for clusters that housed Elasticsearch database that processed over 1 million jobs a day. <br><br>Besides regular DevOps work, I lead several efforts during my time at Rakuten. I performed a large network migration that impacted all the existing workloads in order to move to a service mesh architecture using Istio. I also worked with several Google Cloud engineers to help test and debug Alpha programs. One of the most notable Alpha program was the A100. I also helped transition my team to into the IaC (Infrastructure as Code) methodology with large adoption throughout the team. Finally, I was able to productionalize Kubeflow by using private clusters, GCS (Google Cloud Storage) instead of Minio, and CloudSQL instead of the MySQL instance that was deployed within the cluster. This made future upgrades possible and easy to perform without the possibility of losing production data. Since Kubeflow has many components, making those changes wasn’t easy and not very well supported by the Kubeflow community."
     i18n: company_a_desc
   date:
     detail: Jul. 2019 - Oct. 2021
