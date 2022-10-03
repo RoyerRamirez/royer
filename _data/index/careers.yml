@@ -4,7 +4,7 @@
     detail: Rivian
     i18n: rivian
   desc:
-    detail: "I currently work at Rivian, as a Sr. DevOps Engineer for the Factory Data team.  I’m responsible for integrating and supporting factory systems across various environments and ensuring those systems can scale with ease."
+    detail: "I currently work at Rivian, as a Sr. DevOps Engineer for the Digital Manufacturing Engineering - Factory Data team.  I’m responsible for integrating and supporting factory systems and factory algorthims across all our factories."
     i18n: rivian_desc
   date:
     detail: Oct. 2021 - Present
