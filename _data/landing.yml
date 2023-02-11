@@ -24,13 +24,12 @@
   tpl: skills.html
   css: team
 
-#TODO(royerruiz): Create a better blog page
-# - id: blog
-#   i18n: nav.blog
-#   name: Blog
-#   tpl: blog.html
-#   page: blog/
-#   css: testimonials navy-section
+- id: blog
+  i18n: nav.blog
+  name: Blog
+  tpl: blog.html
+  page: https://blog.royerramirez.com
+  css: testimonials navy-section
 
 - id: links
   i18n: nav.link
