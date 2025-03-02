@@ -17,6 +17,8 @@
             text-align: center;
             position: relative;
             flex-direction: column;
+            margin: 0;
+            padding: 10vh 10vw;
         }
         .menu {
             position: absolute;
@@ -55,15 +57,36 @@
             background: #58a6ff;
         }
         .content {
-            max-width: 800px;
-            padding: 40px;
-            text-align: center;
-            background: rgba(255, 255, 255, 0.05);
-            border-radius: 10px;
-            box-shadow: 0px 8px 20px rgba(255, 255, 255, 0.1);
+            width: 100%;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
         }
         .resume-container {
-            margin-top: 20px;
+            width: 80%;
+            height: 80vh;
+        }
+        .resume-container iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+            border-radius: 10px;
+        }
+        .download-button {
+            margin-top: 10px;
+            background: #1f6feb;
+            color: white;
+            font-size: 1rem;
+            font-weight: bold;
+            padding: 12px 20px;
+            border-radius: 8px;
+            text-decoration: none;
+            transition: 0.3s;
+        }
+        .download-button:hover {
+            background: #58a6ff;
         }
     </style>
 </head>
@@ -76,16 +99,10 @@
     </div>
     
     <div class="content">
-        <h1 class="text-3xl font-bold">Royer Ramirez Ruiz</h1>
-        <p class="text-gray-400 mt-2">Staff Engineer at Maven Robotics</p>
-        
-        <div class="resume-container mt-6">
-            <iframe src="assets/resume/Resume.pdf" width="100%" height="500px" style="border-radius: 5px; border: none;"></iframe>
+        <div class="resume-container">
+            <iframe src="assets/resume/Resume.pdf"></iframe>
         </div>
-        
-        <a href="assets/resume/Resume.pdf" download class="mt-4 inline-block bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-6 rounded transition duration-300">
-            Download
-        </a>
+        <a href="assets/resume/Resume.pdf" download class="download-button">Download</a>
     </div>
 
     <script>
